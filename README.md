@@ -11,6 +11,6 @@ Main Operations :-
 
 
 Requirements :-
-    
+
     - Pyrebase
     -RPi.GPIO

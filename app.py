@@ -1,5 +1,6 @@
 import pyrebase
 import datetime
+# import cv2
 import time as tt
 import RPi.GPIO as GPIO
 config={
